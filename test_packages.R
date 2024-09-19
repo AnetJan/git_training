@@ -1,3 +1,3 @@
-library(httr2)  # some comments
+library(httr2)  # some comments, with extra explanation
 library(tidyselect)
 
